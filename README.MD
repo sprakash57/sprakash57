@@ -2,7 +2,9 @@
 
 ![alt text](https://github.com/sprakash57/sprakash57/blob/master/assets/mybg.png)
 
-### Welcome to my lab. Here my make things, break things and share my work with others.
+## Welcome to my lab. Here my make things, break things and share my work with others.
+
+### Introduction
 
 - 🔨 Currently building something awesome with **Electron** and **Vue.js**.
 - 📖 I’m learning **Clickhouse** and **Python**.
@@ -23,7 +25,7 @@
 </p>
   
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 

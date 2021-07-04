@@ -6,9 +6,11 @@ Welcome to my lab. Here my make things, break things and share my work with othe
 
 - 🔨 Currently building something awesome with **Electron** and **Vue.js**.
 - 📖 I’m learning **Clickhouse** and **Python**.
-- 💬 Need help in Javascript/Typescript/React.js/Express.js?
-- 📭 Reach to me here [@sunny_pr_](https://twitter.com/sunny_pr_) or <a rel="me" href="https://www.linkedin.com/in/sunny-prakash-3780ba49/">LinkedIn me</a>.
+- 👷🏾‍♂️ Professional FullStack JavaScript Developer.
 - 🎮 Fun fact: I still play Morrowind 🤩.
+
+<p><a href="https://www.twitter.com/sunny_pr_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sunny-prakash-3780ba49"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://dev.to/sprakash57"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a><a href="https://dev.to/sprakash57"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+
 
 
 📕 **Latest Blog Posts**
@@ -21,7 +23,9 @@ Welcome to my lab. Here my make things, break things and share my work with othe
 
 <h4 align="center">Liked something? Supprot me by ⭐ing repositories!</h4>
 
+<a href="https://www.buymeacoffee.com/sunnyprakash" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
 
 
-
-###### v0.0.3
+###### v0.0.4

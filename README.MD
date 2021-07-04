@@ -9,7 +9,7 @@ Welcome to my lab. Here my make things, break things and share my work with othe
 - 👷🏾‍♂️ Professional FullStack JavaScript Developer.
 - 🎮 Fun fact: I still play Morrowind 🤩.
 
-<p><a href="https://www.twitter.com/sunny_pr_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sunny-prakash-3780ba49"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://dev.to/sprakash57"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a><a href="https://dev.to/sprakash57"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p><a href="https://www.twitter.com/sunny_pr_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sunny-prakash-3780ba49"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://dev.to/sprakash57"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 
 
@@ -21,7 +21,7 @@ Welcome to my lab. Here my make things, break things and share my work with othe
 - [Integrate express-validator to your express API](https://dev.to/sprakash57/integrate-express-validator-to-your-express-api-2dg6)
 <!-- BLOG-POST-LIST:END -->
 
-<h4 align="center">Liked something? Supprot me by ⭐ing repositories!</h4>
+<h4>Liked something? Supprot me by ⭐ing repositories!</h4>
 
 <a href="https://www.buymeacoffee.com/sunnyprakash" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >

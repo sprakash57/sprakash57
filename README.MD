@@ -8,18 +8,20 @@ Welcome to my lab. Here my make things, break things and share my work with othe
 - 📖 I’m learning **Clickhouse** and **Python**.
 - 💬 Need help in Javascript/Typescript/React.js/Express.js?
 - 📭 Reach to me here [@sunny_pr_](https://twitter.com/sunny_pr_) or <a rel="me" href="https://www.linkedin.com/in/sunny-prakash-3780ba49/">LinkedIn me</a>.
-- ⚡ Fun fact: I still play Morrowind 🤩.
+- 🎮 Fun fact: I still play Morrowind 🤩.
 
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Bookplorer](https://dev.to/sprakash57/bookplorer-55ld)
+- [Beyond console.log()](https://dev.to/sprakash57/beyond-console-log-bgo)
+- [Let's talk about ES2020](https://dev.to/sprakash57/let-s-talk-about-es2020-5369)
+- [Integrate express-validator to your express API](https://dev.to/sprakash57/integrate-express-validator-to-your-express-api-2dg6)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Liked something? Supprot me by starring repositories!</h3>
+<h4 align="center">Liked something? Supprot me by ⭐ing repositories!</h4>
 
 
-<small>0.0.2</small>
+
+
+###### v0.0.3

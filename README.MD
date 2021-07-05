@@ -10,7 +10,8 @@
 - 📖 I’m learning **Clickhouse** and **Python**.
 - 👷🏾‍♂️ Professional FullStack JavaScript Developer.
 - 🎮 Fun fact: I still play Morrowind 🤩.
-<br>
+
+
 ### Find me
 
 <p>
@@ -23,8 +24,6 @@
         <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
     </a>
 </p>
-  
-<br>
 
 ### Recent Blog Posts
 
@@ -37,15 +36,12 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
 ### Open source journey
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sprakash57&layout=compact&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true)
 
-<br>
 
 <h4>Liked something? Supprot me by ⭐ing repositories!</h4>
 
@@ -53,6 +49,7 @@
     <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png"  alt="Buy Me A Coffee"  height="40"  width="170">
 </a>
   
+<br>
 <br>
 
 ###### v0.1.5

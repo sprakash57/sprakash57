@@ -24,17 +24,14 @@
     </a>
 </p>
   
-
+<br>
+<br>
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--  [Bookplorer](https://dev.to/sprakash57/bookplorer-55ld)
--  [Beyond console.log()](https://dev.to/sprakash57/beyond-console-log-bgo)
--  [Let's talk about ES2020](https://dev.to/sprakash57/let-s-talk-about-es2020-5369)
--  [Integrate express-validator to your express API](https://dev.to/sprakash57/integrate-express-validator-to-your-express-api-2dg6)
-
 <!-- BLOG-POST-LIST:END -->
+<br>
+<br>
  ### Open source journey
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true)
@@ -49,4 +46,4 @@
 </a>
   
 
-###### v0.1.1
+###### v0.1.2

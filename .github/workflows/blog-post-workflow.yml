@@ -1,8 +1,9 @@
-name: Recent blog posts
+name: Recent Blog Posts
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -11,6 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Updated readme with the latest blog posts"
           feed_list: "https://dev.to/feed/sprakash57"

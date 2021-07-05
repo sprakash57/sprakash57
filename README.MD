@@ -10,7 +10,7 @@
 - 📖 I’m learning **Clickhouse** and **Python**.
 - 👷🏾‍♂️ Professional FullStack JavaScript Developer.
 - 🎮 Fun fact: I still play Morrowind 🤩.
-
+<br>
 ### Find me
 
 <p>
@@ -25,7 +25,6 @@
 </p>
   
 <br>
-<br>
 
 ### Recent Blog Posts
 
@@ -39,7 +38,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-<br>
 
 ### Open source journey
 
@@ -47,6 +45,7 @@
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sprakash57&layout=compact&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true)
 
+<br>
 
 <h4>Liked something? Supprot me by ⭐ing repositories!</h4>
 
@@ -54,5 +53,6 @@
     <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png"  alt="Buy Me A Coffee"  height="40"  width="170">
 </a>
   
+<br>
 
-###### v0.1.4
+###### v0.1.5

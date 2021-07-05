@@ -25,12 +25,11 @@
 </p>
   
 <br>
-<br>
-### Latest Blog Posts
+### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<br>
+
 <br>
  ### Open source journey
 

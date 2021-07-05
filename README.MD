@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/sprakash57/sprakash57/blob/master/assets/mybg.png)
 
-## Welcome to my lab. Here my make things, break things and share my work with others.
+## Welcome to my lab. Here I make things, break things and share my work with others.
 
 ### Introduction
 
@@ -49,4 +49,4 @@
 </a>
   
 
-###### v0.1.0
+###### v0.1.1

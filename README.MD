@@ -7,7 +7,7 @@
 ### Introduction
 
 - 🔨 Currently building something awesome with **Electron** and **Vue.js**.
-- 📖 I’m learning **Clickhouse** and **Python**.
+- 📖 I’m learning Data warehouse solution using AWS **Athena**, **Glue** and **S3**.
 - 👷🏾‍♂️ Professional FullStack JavaScript Developer.
 - 🎮 Fun fact: I still play Morrowind 🤩.
 
@@ -52,4 +52,4 @@
 <br>
 <br>
 
-###### v0.1.5
+###### v0.1.6

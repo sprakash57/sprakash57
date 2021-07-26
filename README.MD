@@ -2,14 +2,12 @@
 
 ![alt text](https://github.com/sprakash57/sprakash57/blob/master/assets/mybg.png)
 
-## Welcome to my lab. Here I make things, break things and share my work with others.
-
 ### Introduction
 
 - 🔨 Currently building something awesome with **Electron** and **Vue.js**.
-- 📖 I’m learning Data warehouse solution using AWS **Athena**, **Glue** and **S3**.
-- 👷🏾‍♂️ Professional FullStack JavaScript Developer.
-- 🎮 Fun fact: I still play Morrowind 🤩.
+- 📖 I’m learning Server side rendering with **Next.js**.
+- 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
+- 🎮 Fun fact: Reached level 14 in Morrowind 🤩.
 
 
 ### Find me
@@ -51,4 +49,4 @@
 <br>
 <br>
 
-###### v0.1.6
+###### v0.1.7

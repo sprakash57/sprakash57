@@ -5,7 +5,7 @@
 ### Introduction
 
 - 🔨 Currently building something awesome with **Electron** and **Vue.js**.
-- 📖 I’m learning Server side rendering with **Next.js**.
+- 📖 I’m learning Server side rendering with **Next.js** trying out **Recoil**.
 - 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
 - 🎮 Fun fact: Reached level 14 in Morrowind 🤩.
 
@@ -49,4 +49,4 @@
 <br>
 <br>
 
-###### v0.1.7
+###### v0.1.8

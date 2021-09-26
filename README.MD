@@ -31,10 +31,10 @@
     <a href="https://stackoverflow.com/users/story/9585068" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow">
     </a>
-    <a href="https://www.codewars.com/users/sprakash57" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.codewars.com/users/sprakash57" target="_blank" rel="nofollow noreferrer">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars">
     </a>
-    <a href="https://www.hackerrank.com/sunny_prakashgm" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.hackerrank.com/sunny_prakashgm" target="_blank" rel="nofollow noreferrer">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
     </a>
 </p>
@@ -70,18 +70,18 @@
 
 [![Sunny's GitHub stats](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
 
-[![Sunny's wakatime stats](https://github-readme-stats-sunnyprakashgm.vercel.app/api/wakatime?username=sprakash57&layout=compact&langs_count=5&bg_color=343a40&text_color=fff&title_color=ff6347&border_radius=10)](https://wakatime.com/@sprakash57)
+[![Sunny's wakatime stats](https://github-readme-stats-sunnyprakashgm.vercel.app/api/wakatime?username=sprakash57&layout=compact&langs_count=5&bg_color=343a40&text_color=fff&title_color=ff6347&border_radius=10&hide=JSON,XML&custom_title=This%20Week's%20Stats)](https://wakatime.com/@sprakash57)
 
 
 
-<h4>Find anything useful? Support me by ⭐ing my repos. You can also donate me via -</h4>
+<h4>Found anything useful? Support me by ⭐ing my repos. You can also donate me via -</h4>
 <br>
 
 <p>
-    <a href="https://www.buymeacoffee.com/sunnyprakash" target="_blank" rel="noreferrer nofollow">
+    <a href="https://www.buymeacoffee.com/sunnyprakash" target="_blank" rel="noreferrer noopener">
         <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png"  alt="Buy Me A Coffee"  height="30"  width="150">
     </a>
-    <a href="https://www.paypal.me/sprakash57" target="_blank" rel="noreferrer nofollow">
+    <a href="https://www.paypal.me/sprakash57" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" height="30">
     </a>
 </p>
@@ -89,4 +89,4 @@
 
 <br>
 
-###### v0.2.1
+###### v0.2.2

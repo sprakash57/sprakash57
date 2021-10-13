@@ -55,7 +55,7 @@
 <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-[![Sunny's wakatime stats](https://github-readme-stats-sunnyprakashgm.vercel.app/api/wakatime?username=sprakash57&layout=compact&langs_count=5&bg_color=343a40&text_color=fff&title_color=ff6347&border_radius=10&hide=JSON,XML&custom_title=This%20Week's%20Stats)](https://wakatime.com/@sprakash57)
+[![Sunny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sprakash57&layout=compact&langs_count=5&bg_color=343a40&text_color=fff&title_color=ff6347&border_radius=10&hide=JSON,XML&custom_title=This%20Week's%20Stats)](https://wakatime.com/@sprakash57)
 
 </p>
 
@@ -71,7 +71,7 @@
 
 ### Open source journey
 
-[![Sunny's GitHub stats](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
+[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
 
 
 <h4>Found anything useful? Support me by ⭐ing my repos. You can also donate me via -</h4>
@@ -89,4 +89,4 @@
 
 <br>
 
-###### v0.2.3
+###### v0.2.4

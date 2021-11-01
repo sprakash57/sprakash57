@@ -55,7 +55,8 @@
 <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-[![Sunny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sprakash57&layout=compact&langs_count=6&bg_color=343a40&text_color=fff&title_color=ff6347&border_radius=10&hide=JSON,XML&custom_title=This%20Week's%20Stats)](https://wakatime.com/@sprakash57)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprakash57&layout=compact&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
 
@@ -89,4 +90,4 @@
 
 <br>
 
-###### v0.2.7
+###### v0.3.0

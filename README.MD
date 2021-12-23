@@ -5,8 +5,8 @@
 ### Introduction
 
 - 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
-- 🔨 Building smarter tools at <a href="https://latana.com/" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
-- 📖 Learning Recoil.js with React.js and Typescript.
+- 🔨 Building smarter tools at <a href="https://latana.com" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
+- 📖 Learning <a href="https://recoiljs.org" target="_blank" rel="noopener noreferrer">Recoil</a> with React and Typescript.
 - 🎮 Fun fact: I play The Elder Scroll: Morrowind even today 🤩.
 
 
@@ -90,4 +90,4 @@
 
 <br>
 
-###### v0.3.2
+###### v0.3.3

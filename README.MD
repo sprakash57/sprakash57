@@ -5,9 +5,9 @@
 ### Introduction
 
 - 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
-- 🔨 Currently building desktop utility with **Electron** and **Vue.js**.
-- 📖 I’m learning Server side rendering with **Next.js** and **Recoil.js**.
-- 🎮 Fun fact: I play The Elder Scroll: Morrowind even this day 🤩.
+- 🔨 Building smarter tools at <a href="https://latana.com/" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
+- 📖 Learning Recoil.js with React.js and Typescript.
+- 🎮 Fun fact: I play The Elder Scroll: Morrowind even today 🤩.
 
 
 ### Find me
@@ -75,7 +75,7 @@
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
 
 
-<h4>Found anything useful? Support me by ⭐ing my repos. You can also donate me via -</h4>
+<h4>Found anything useful? Support me by ⭐ing my repos or donate via -</h4>
 <br>
 
 <p>
@@ -90,4 +90,4 @@
 
 <br>
 
-###### v0.3.1
+###### v0.3.2

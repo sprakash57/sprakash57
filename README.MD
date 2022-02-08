@@ -6,8 +6,8 @@
 
 - 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
 - 🔨 Building smarter tools at <a href="https://latana.com" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
-- 📖 Learning <a href="https://recoiljs.org" target="_blank" rel="noopener noreferrer">Recoil</a> with React and Typescript.
-- 🎮 Fun fact: I play The Elder Scroll: Morrowind even today 🤩.
+- ⚙️ Learning <a href="https://recoiljs.org" target="_blank" rel="noopener noreferrer">Recoil</a> with React and Typescript.
+- 📖 Reading <a href="https://www.goodreads.com/book/show/1486976.Myth_Mithya" target="_blank" rel="noopener noreferrer">Myth = Mithya</a>.
 
 
 ### Find me
@@ -90,4 +90,4 @@
 
 <br>
 
-###### v0.3.3
+###### v0.3.4

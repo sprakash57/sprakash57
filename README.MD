@@ -7,7 +7,7 @@
 - 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
 - 🔨 Building smarter tools at <a href="https://latana.com" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
 - ⚙️ Learning <a href="https://recoiljs.org" target="_blank" rel="noopener noreferrer">Recoil</a> with React and Typescript.
-- 📖 Reading <a href="https://www.goodreads.com/book/show/1486976.Myth_Mithya" target="_blank" rel="noopener noreferrer">Myth = Mithya</a>.
+- 🎮 Playing <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank" rel="noopener noreferrer">The Elder Scrolls Online</a>. Look for @suprdev.
 
 
 ### Find me
@@ -90,4 +90,4 @@
 
 <br>
 
-###### v0.3.4
+###### v0.3.6

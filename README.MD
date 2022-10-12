@@ -1,6 +1,6 @@
 ## Hello there, <a  href="https://suprdev.netlify.app"><img  src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif"  width="25px"></a>
 
-![alt text](https://github.com/sprakash57/sprakash57/blob/master/assets/mybg.png)
+[![@sprakash57's Holopin board](https://holopin.me/sprakash57)](https://holopin.io/@sprakash57)
 
 ### Introduction
 

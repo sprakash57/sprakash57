@@ -1,25 +1,22 @@
-## Hello there, <a  href="https://suprdev.netlify.app"><img  src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif"  width="25px"></a>
+## Hello there, <a  href="https://sunnyprakash.com"><img  src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="25px"></a>
 
-[![@sprakash57's Holopin board](https://holopin.me/sprakash57)](https://holopin.io/@sprakash57)
+### I am 👇
 
-### Introduction
-
-- 👷🏾‍♂️ Professional Full-Stack JavaScript Developer.
+- 👷🏾‍♂️ A professional Full-Stack JavaScript Developer.
 - 🔨 Building smarter tools at <a href="https://latana.com" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
-- ⚙️ Learning <a href="https://recoiljs.org" target="_blank" rel="noopener noreferrer">Recoil</a> with React and Typescript.
 - 🎮 Playing <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank" rel="noopener noreferrer">The Elder Scrolls Online</a>. Look for @suprdev.
 
 
 ### Find me
 
 <p>
-    <a href="https://suprdev.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/SUPRDEV-%23353d45.svg?style=for-the-badge&logo=Google-chrome&logoColor=tomato" alt="Website">
+    <a href="https://sunnyprakash.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Sunny%20Prakash-%23353d45.svg?style=for-the-badge&logo=Google-chrome&logoColor=cc9966" alt="Website">
     </a>  
-    <a href="https://www.linkedin.com/in/sunny-prakash-3780ba49" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/sunnyprakash12" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
-    <a href="https://dev.to/sprakash57" target="_blank" rel="noopener noreferrer">
+    <a href="https://sunny-prakash.medium.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
     </a>
     <a href="https://www.duolingo.com/profile/sunnypraka12" target="_blank" rel="noopener noreferrer">
@@ -39,55 +36,23 @@
     </a>
 </p>
 
-### Programming Tools:
-<p>
-<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
-<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img alt="Nextjs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" />
-<img alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img alt="Express" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" />
-<img alt="PostgreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprakash57&layout=compact&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github.com/sprakash57/github-readme-stats)
-
-
-</p>
-
 ### Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Bookplorer](https://dev.to/sprakash57/bookplorer-55ld)
-- [Beyond console.log&lpar;&rpar;](https://dev.to/sprakash57/beyond-console-log-bgo)
-- [Let&#39;s talk about ES2020](https://dev.to/sprakash57/let-s-talk-about-es2020-5369)
-- [Integrate express-validator to your express API](https://dev.to/sprakash57/integrate-express-validator-to-your-express-api-2dg6)
-- [5 less common array methods in JavaScript](https://dev.to/sprakash57/5-less-common-array-methods-in-javascript-43c1)
-<!-- BLOG-POST-LIST:END -->
+- [Testing Solid.js with Vitest](https://medium.com/@sunny-prakash/testing-solid-js-with-vitest-f9c030ff4197)
+- [Lesser known array methods in JavaScript](https://medium.com/@sunny-prakash/lesser-known-array-methods-in-javascript-31afbfa1d091)
+- [Beyond console.log()](https://medium.com/@sunny-prakash/beyond-console-log-9af93a63c43c)
+- [Let's talk about ES2020](https://medium.com/@sunny-prakash/lets-talk-about-es2020-75ceb45b378c)
 
-### Open source journey
+
+### GitHub journey
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprakash57&layout=compact&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github.com/sprakash57/github-readme-stats)
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
 
 
-<h4>Found anything useful? Support me by ⭐ing my repos or donate via -</h4>
+<h4>Found my repos helpful?! then don't forget to ⭐ them.</h4>
 <br>
-
-<p>
-    <a href="https://www.buymeacoffee.com/sunnyprakash" target="_blank" rel="noreferrer noopener">
-        <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png"  alt="Buy Me A Coffee"  height="30"  width="150">
-    </a>
-    <a href="https://www.paypal.me/sprakash57" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" height="30">
-    </a>
-</p>
-
-
 <br>
 
 ###### v0.3.6

@@ -10,14 +10,14 @@
 ### Find me
 
 <p>
+    <a href="https://sunny-prakash.medium.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
     <a href="https://sunnyprakash.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Sunny%20Prakash-%23353d45.svg?style=for-the-badge&logo=Google-chrome&logoColor=cc9966" alt="Website">
     </a>  
     <a href="https://www.linkedin.com/in/sunnyprakash12" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
-    <a href="https://sunny-prakash.medium.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
     </a>
     <a href="https://www.duolingo.com/profile/sunnypraka12" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
@@ -33,6 +33,9 @@
     </a>
     <a href="https://www.hackerrank.com/sunny_prakashgm" target="_blank" rel="nofollow noreferrer">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+    </a>
+        <a href="https://mastodon.social/@sunnyprakash" target="_blank" rel="nofollow noreferrer">
+        <img src="https://img.shields.io/badge/-Mastodon-595AFF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
     </a>
 </p>
 
@@ -51,8 +54,8 @@
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
 
 
-<h4>Found my repos helpful?! then don't forget to ⭐ them.</h4>
+<h4>Found my repos helpful?! Don't forget to ⭐ them.</h4>
 <br>
 <br>
 
-###### v0.3.6
+###### v0.4.0

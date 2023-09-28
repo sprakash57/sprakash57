@@ -1,4 +1,4 @@
-## Hello there, <a  href="https://sunnyprakash.com"><img  src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="25px"></a>
+## Hello there, <a href="https://sunnyprakash.com"><img  src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="25px"></a>
 
 ### I am 👇
 
@@ -40,7 +40,7 @@
 </p>
 
 ### Recent Blog Posts
-
+- [How to use Environment variables in GitHub actions](https://medium.com/javascript-in-plain-english/how-to-use-environment-variables-in-github-actions-workflows-598b583c1a92)
 - [Testing Solid.js with Vitest](https://medium.com/@sunny-prakash/testing-solid-js-with-vitest-f9c030ff4197)
 - [Lesser known array methods in JavaScript](https://medium.com/@sunny-prakash/lesser-known-array-methods-in-javascript-31afbfa1d091)
 - [Beyond console.log()](https://medium.com/@sunny-prakash/beyond-console-log-9af93a63c43c)
@@ -55,7 +55,3 @@
 
 
 <h4>Found my repos helpful?! Don't forget to ⭐ them.</h4>
-<br>
-<br>
-
-###### v0.4.0

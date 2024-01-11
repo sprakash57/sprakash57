@@ -1,10 +1,10 @@
-## Hello there, <a href="https://sunnyprakash.com"><img  src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="25px"></a>
+## Hello there, <a href="https://sunnyprakash.com"><img  src="https://media.giphy.com/media/QeXXm9Z6oBbTkyGgFs/giphy.gif" width="25px"></a>
 
 ### I am 👇
 
 - 👷🏾‍♂️ A professional Full-Stack JavaScript Developer.
-- 🔨 Building smarter tools at <a href="https://latana.com" target="_blank" rel="noopener noreferrer">Latana</a> to make better marketing decisions.
-- 🎮 Playing <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank" rel="noopener noreferrer">The Elder Scrolls Online</a>. Look for @suprdev.
+- 🔨 Building digital healthcare tools at <a href="https://www.dh-companion.com" target="_blank" rel="noopener noreferrer">DHC</a> to transform the care of rare diseases.
+- 🎮 Plays <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank" rel="noopener noreferrer">The Elder Scrolls Online</a>. Look for @suprdev.
 
 
 ### Find me
@@ -53,5 +53,3 @@
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprakash57&show_icons=true&bg_color=343a40&text_color=fff&title_color=ff6347&icon_color=ff6347&border_radius=10)](https://github-readme-stats-sunnyprakashgm.vercel.app/api?username=sprakash57&show_icons=true)
 
-
-<h4>Found my repos helpful?! Don't forget to ⭐ them.</h4>

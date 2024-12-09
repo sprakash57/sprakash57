@@ -34,17 +34,17 @@
     <a href="https://www.hackerrank.com/sunny_prakashgm" target="_blank" rel="nofollow noreferrer">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
     </a>
-        <a href="https://mastodon.social/@sunnyprakash" target="_blank" rel="nofollow noreferrer">
+    <a href="https://mastodon.social/@sunnyprakash" target="_blank" rel="nofollow noreferrer">
         <img src="https://img.shields.io/badge/-Mastodon-595AFF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
     </a>
 </p>
 
 ### Recent Blog Posts
+- [Logging Express.js apps with Grafana and Loki](https://medium.com/@sunny-prakash/logging-express-js-apps-with-grafana-and-loki-aa8132172013)
 - [The Secret to Debugging Your Live React Native Android App](https://medium.com/javascript-in-plain-english/the-secret-to-debugging-your-live-react-native-android-app-34c703fbbf87)
 - [How to use Environment variables in GitHub actions](https://medium.com/javascript-in-plain-english/how-to-use-environment-variables-in-github-actions-workflows-598b583c1a92)
 - [Testing Solid.js with Vitest](https://medium.com/@sunny-prakash/testing-solid-js-with-vitest-f9c030ff4197)
 - [Lesser known array methods in JavaScript](https://medium.com/@sunny-prakash/lesser-known-array-methods-in-javascript-31afbfa1d091)
-- [Beyond console.log()](https://medium.com/@sunny-prakash/beyond-console-log-9af93a63c43c)
 
 
 ### GitHub journey

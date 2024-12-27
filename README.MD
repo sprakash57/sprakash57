@@ -40,11 +40,11 @@
 </p>
 
 ### Recent Blog Posts
+- [Efficient thumbnail generation for PDF & more in Express.js](https://medium.com/javascript-in-plain-english/efficient-thumbnail-generation-for-pdf-more-in-express-js-2a883bde4d255)
 - [Logging Express.js apps with Grafana and Loki](https://medium.com/@sunny-prakash/logging-express-js-apps-with-grafana-and-loki-aa8132172013)
 - [The Secret to Debugging Your Live React Native Android App](https://medium.com/javascript-in-plain-english/the-secret-to-debugging-your-live-react-native-android-app-34c703fbbf87)
 - [How to use Environment variables in GitHub actions](https://medium.com/javascript-in-plain-english/how-to-use-environment-variables-in-github-actions-workflows-598b583c1a92)
 - [Testing Solid.js with Vitest](https://medium.com/@sunny-prakash/testing-solid-js-with-vitest-f9c030ff4197)
-- [Lesser known array methods in JavaScript](https://medium.com/@sunny-prakash/lesser-known-array-methods-in-javascript-31afbfa1d091)
 
 
 ### GitHub journey

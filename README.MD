@@ -3,7 +3,7 @@
 ### I am 👇
 
 - 👷🏾‍♂️ A professional Full-Stack JavaScript Developer.
-- 🔨 Building digital healthcare tools at <a href="https://www.dh-companion.com" target="_blank" rel="noopener noreferrer">DHC</a> to transform the care of rare diseases.
+- 🔨 Helping <a href="https://berlinerverlag.com" target="_blank" rel="noopener noreferrer">Berliner Verlag</a> in their mission to digitize their popular newspaper brands.
 - 🎮 Plays <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank" rel="noopener noreferrer">The Elder Scrolls Online</a>. Look for @suprdev.
 
 

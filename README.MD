@@ -3,7 +3,7 @@
 ### I am 👇
 
 - 👷🏾‍♂️ A professional Full-Stack JavaScript Developer.
-- 🔨 Helping <a href="https://berlinerverlag.com" target="_blank" rel="noopener noreferrer">Berliner Verlag</a> in their mission to digitize their popular newspaper brands.
+- 🔨 Driving the digital evolution of <a href="https://berlinerverlag.com" target="_blank" rel="noopener noreferrer">Berliner Verlag</a>'s iconic newspaper brands.
 - 🎮 Plays <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank" rel="noopener noreferrer">The Elder Scrolls Online</a>. Look for @suprdev.
 
 
